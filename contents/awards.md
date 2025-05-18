@@ -1,13 +1,1 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- PhoneWatch is not only a product innovation but also a significant evolution in the form of mobile computing. With the continuous development of flexible electronics, AI, and communication technologies, it is expected that wearable smart devices will capture 15-20% of the mobile terminal market within the next 5-10 years. Companies are advised to start with PhoneWatch and continue investing in the construction of a wearable computing ecosystem, seizing the strategic opportunity of paradigm shifts in human-computer interaction.
