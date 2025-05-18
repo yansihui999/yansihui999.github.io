@@ -1,16 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
-#### Email
-sli[at]cumt.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+**PhoneWatch** is a wearable smart device, which perfectly integrates all the functions of smart phone and the portable form of smart watch, providing users with a complete mobile computing experience. Its core value proposition is to let users enjoy the full functions of smart phone while getting rid of the volume constraints of traditional mobile phones.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+**Core innovation** Form innovation and function innovation: It integrates all the functions of smart phones with the portable form of smart watches. PhoneWatch It fills the gap between "insufficient functions of wearable devices" and "poor portability of smart phones".
